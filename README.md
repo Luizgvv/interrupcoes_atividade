@@ -47,7 +47,7 @@ Para o desenvolvimento deste projeto, foram seguidos os seguintes requisitos:
 - **VS Code** com o **Pico SDK** instalado.
 - **Biblioteca WS2812** (para controlar os LEDs endereçáveis).
 
-  ### Passos
+ ### Passos
 
 1. Clone o repositório em sua máquina local:
    ```bash
